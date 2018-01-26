@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+<source>PubTator</source>
+<date>0/0/0</date>
+<key>PubTator.key</key>
+<document>
+<id>10411803</id>
+<passage>
+<infon key="type">title</infon>
+<offset>0</offset>
+<text>Severe immune hemolytic anemia associated with prophylactic use of cefotetan in obstetric and gynecologic procedures.</text>
+<annotation id='0'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D000743</infon>
+<location offset='14' length='16' />
+<text>hemolytic anemia</text>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D015313</infon>
+<location offset='67' length='9' />
+<text>cefotetan</text>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<offset>118</offset>
+<text>Second- and third-generation cephalosporins, especially cefotetan, are increasingly associated with severe, sometimes fatal immune hemolytic anemia. We noticed that 10 of our 35 cases of cefotetan-induced hemolytic anemias were in patients who had received cefotetan prophylactically for obstetric and gynecologic procedures. Eight of these cases of severe immune hemolytic anemia are described.</text>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D002511</infon>
+<location offset='147' length='14' />
+<text>cephalosporins</text>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D015313</infon>
+<location offset='174' length='9' />
+<text>cefotetan</text>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D000743</infon>
+<location offset='249' length='16' />
+<text>hemolytic anemia</text>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D015313</infon>
+<location offset='305' length='9' />
+<text>cefotetan</text>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D000743</infon>
+<location offset='323' length='17' />
+<text>hemolytic anemias</text>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D015313</infon>
+<location offset='375' length='9' />
+<text>cefotetan</text>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D000743</infon>
+<location offset='482' length='16' />
+<text>hemolytic anemia</text>
+</annotation>
+</passage>
+<relation id='R0'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D015313</infon>
+<infon key="Disease">D000743</infon>
+</relation>
+</document>
+<document>
+<id>10225068</id>
+<passage>
+<infon key="type">title</infon>
+<offset>0</offset>
+<text>Cauda equina syndrome after spinal anaesthesia with hyperbaric 5% lignocaine: a review of six cases of cauda equina syndrome reported to the Swedish Pharmaceutical Insurance 1993-1997.</text>
+<annotation id='0'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D011128</infon>
+<location offset='0' length='21' />
+<text>Cauda equina syndrome</text>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008012</infon>
+<location offset='66' length='10' />
+<text>lignocaine</text>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D011128</infon>
+<location offset='103' length='21' />
+<text>cauda equina syndrome</text>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<offset>185</offset>
+<text>Six cases of cauda equina syndrome with varying severity were reported to the Swedish Pharmaceutical Insurance during the period 1993-1997. All were associated with spinal anaesthesia using hyperbaric 5% lignocaine. Five cases had single-shot spinal anaesthesia and one had a repeat spinal anaesthetic due to inadequate block. The dose of hyperbaric 5% lignocaine administered ranged from 60 to 120 mg. Three of the cases were most likely caused by direct neurotoxicity of hyperbaric 5% lignocaine. In the other 3 cases, direct neurotoxicity was also probable, but unfortunately radiological investigations were not done to definitely exclude a compressive aetiology. All cases sustained permanent neurological deficits. We recommend that hyperbaric lignocaine should be administered in concentrations not greater than 2% and at a total dose preferably not exceeding 60 mg.</text>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D011128</infon>
+<location offset='198' length='21' />
+<text>cauda equina syndrome</text>
+</annotation>
+<annotation id='4'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008012</infon>
+<location offset='389' length='10' />
+<text>lignocaine</text>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008012</infon>
+<location offset='538' length='10' />
+<text>lignocaine</text>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D020258</infon>
+<location offset='641' length='13' />
+<text>neurotoxicity</text>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008012</infon>
+<location offset='672' length='10' />
+<text>lignocaine</text>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D020258</infon>
+<location offset='713' length='13' />
+<text>neurotoxicity</text>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D009461</infon>
+<location offset='883' length='21' />
+<text>neurological deficits</text>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008012</infon>
+<location offset='935' length='10' />
+<text>lignocaine</text>
+</annotation>
+</passage>
+<relation id='R0'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D008012</infon>
+<infon key="Disease">D011128</infon>
+</relation>
+</document>
+</collection>

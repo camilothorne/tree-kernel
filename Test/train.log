@@ -1,0 +1,22 @@
+Scanning examples...done
+Reading examples into memory...100..200..OK. (209 examples read)
+
+Number of examples: 209, linear space size: 40
+
+estimating ...
+Setting default regularization parameter C=1.0000
+Optimizing.........done. (10 iterations)
+Optimization finished (6 misclassified, maxdiff=0.00000).
+Runtime in cpu-seconds: 0.12
+Number of SV: 12 (including 11 at upper bound)
+L1 loss: loss=12.00000
+Norm of weight vector: |w|=0.00000
+Norm of longest example vector: |x|=1.00000
+Estimated VCdim of classifier: VCdim<=1.00000
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.01
+XiAlpha-estimate of the error: error<=5.26% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>0.00% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>0.00% (rho=1.00,depth=0)
+Number of kernel evaluations: 7361
+Writing model file...done

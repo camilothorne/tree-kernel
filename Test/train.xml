@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+<source>PubTator</source>
+<date>0/0/0</date>
+<key>PubTator.key</key>
+<document>
+<id>6794356</id>
+<passage>
+<infon key="type">title</infon>
+<offset>0</offset>
+<text>Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant.</text>
+<annotation id='0'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D014262</infon>
+<location offset='0' length='29' />
+<text>Tricuspid valve regurgitation</text>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D016651</infon>
+<location offset='34' length='17' />
+<text>lithium carbonate</text>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D064420</infon>
+<location offset='52' length='8' />
+<text>toxicity</text>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<offset>82</offset>
+<text>A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described. This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy. Sixty-three percent of these infants had tricuspid valve involvement. Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy. It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery.</text>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D014262</infon>
+<location offset='105' length='23' />
+<text>tricuspid regurgitation</text>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D001282</infon>
+<location offset='130' length='14' />
+<text>atrial flutter</text>
+</annotation>
+<annotation id='5'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D006333</infon>
+<location offset='146' length='24' />
+<text>congestive heart failure</text>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008094</infon>
+<location offset='189' length='7' />
+<text>lithium</text>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D014262</infon>
+<location offset='265' length='23' />
+<text>tricuspid regurgitation</text>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D001282</infon>
+<location offset='293' length='14' />
+<text>atrial flutter</text>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D006331</infon>
+<location offset='345' length='15' />
+<text>cardiac disease</text>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D008094</infon>
+<location offset='386' length='7' />
+<text>lithium</text>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D016651</infon>
+<location offset='511' length='17' />
+<text>Lithium carbonate</text>
+</annotation>
+<annotation id='12'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D006331</infon>
+<location offset='576' length='24' />
+<text>congenital heart disease</text>
+</annotation>
+<annotation id='13'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D003866</infon>
+<location offset='651' length='21' />
+<text>neurologic depression</text>
+</annotation>
+<annotation id='14'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D003490</infon>
+<location offset='674' length='8' />
+<text>cyanosis</text>
+</annotation>
+<annotation id='15'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D001145</infon>
+<location offset='688' length='18' />
+<text>cardiac arrhythmia</text>
+</annotation>
+</passage>
+<relation id='R0'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D016651</infon>
+<infon key="Disease">D003490</infon>
+</relation>
+<relation id='R1'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D016651</infon>
+<infon key="Disease">D001145</infon>
+</relation>
+<relation id='R2'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D016651</infon>
+<infon key="Disease">D003866</infon>
+</relation>
+</document>
+<document>
+<id>6504332</id>
+<passage>
+<infon key="type">title</infon>
+<offset>0</offset>
+<text>Phenobarbital-induced dyskinesia in a neurologically-impaired child.</text>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D010634</infon>
+<location offset='0' length='13' />
+<text>Phenobarbital</text>
+</annotation>
+<annotation id='1'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D004409</infon>
+<location offset='22' length='10' />
+<text>dyskinesia</text>
+</annotation>
+<annotation id='2'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D009422</infon>
+<location offset='38' length='23' />
+<text>neurologically-impaired</text>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<offset>69</offset>
+<text>A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures. Known causes of movement disorders were eliminated after evaluation. On repeat challenge with phenobarbital, the dyskinesia recurred. Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders.</text>
+<annotation id='3'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D009422</infon>
+<location offset='99' length='21' />
+<text>neurologic impairment</text>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D004409</infon>
+<location offset='133' length='10' />
+<text>dyskinesia</text>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D010634</infon>
+<location offset='164' length='13' />
+<text>phenobarbital</text>
+</annotation>
+<annotation id='6'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D012640</infon>
+<location offset='190' length='8' />
+<text>seizures</text>
+</annotation>
+<annotation id='7'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D009069</infon>
+<location offset='216' length='18' />
+<text>movement disorders</text>
+</annotation>
+<annotation id='8'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D010634</infon>
+<location offset='294' length='13' />
+<text>phenobarbital</text>
+</annotation>
+<annotation id='9'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D004409</infon>
+<location offset='313' length='10' />
+<text>dyskinesia</text>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D010634</infon>
+<location offset='334' length='13' />
+<text>Phenobarbital</text>
+</annotation>
+<annotation id='11'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D009069</infon>
+<location offset='415' length='18' />
+<text>movement disorders</text>
+</annotation>
+</passage>
+<relation id='R0'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D010634</infon>
+<infon key="Disease">D004409</infon>
+</relation>
+</document>
+<document>
+<id>6436733</id>
+<passage>
+<infon key="type">title</infon>
+<offset>0</offset>
+<text>Acute changes of blood ammonia may predict short-term adverse effects of valproic acid.</text>
+<annotation id='0'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D000641</infon>
+<location offset='23' length='7' />
+<text>ammonia</text>
+</annotation>
+<annotation id='1'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='73' length='13' />
+<text>valproic acid</text>
+</annotation>
+</passage>
+<passage>
+<infon key="type">abstract</infon>
+<offset>88</offset>
+<text>Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs. A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours. Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups. By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically.</text>
+<annotation id='2'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='88' length='13' />
+<text>Valproic acid</text>
+</annotation>
+<annotation id='3'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='103' length='3' />
+<text>VPA</text>
+</annotation>
+<annotation id='4'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D004827</infon>
+<location offset='124' length='9' />
+<text>epileptic</text>
+</annotation>
+<annotation id='5'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='237' length='3' />
+<text>VPA</text>
+</annotation>
+<annotation id='6'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D000641</infon>
+<location offset='316' length='7' />
+<text>Ammonia</text>
+</annotation>
+<annotation id='7'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D000641</infon>
+<location offset='325' length='3' />
+<text>NH3</text>
+</annotation>
+<annotation id='8'>
+<infon key="type">Disease</infon>
+<infon key="MESH">D006970</infon>
+<location offset='399' length='10' />
+<text>drowsiness</text>
+</annotation>
+<annotation id='9'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='483' length='3' />
+<text>VPA</text>
+</annotation>
+<annotation id='10'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='543' length='3' />
+<text>VPA</text>
+</annotation>
+<annotation id='11'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D000641</infon>
+<location offset='572' length='3' />
+<text>NH3</text>
+</annotation>
+<annotation id='12'>
+<infon key="type">Chemical</infon>
+<infon key="MESH">D014635</infon>
+<location offset='660' length='3' />
+<text>VPA</text>
+</annotation>
+</passage>
+<relation id='R0'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D014635</infon>
+<infon key="Disease">D006970</infon>
+</relation>
+<relation id='R1'>
+<infon key="relation">CID</infon>
+<infon key="Chemical">D000641</infon>
+<infon key="Disease">D006970</infon>
+</relation>
+</document>
+</collection>

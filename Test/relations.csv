@@ -1,0 +1,14 @@
+chemical ; mesh ; disease ; mesh ; gold ; predicted ; margin
+cephalosporins ; D002511 ; hemolytic anemia ; D000743 ; -1 ; -1 ; 1.0000011
+cephalosporins ; D002511 ; neurological deficits ; D009461 ; -1 ; -1 ; 1.0000012
+cephalosporins ; D002511 ; hemolytic anemia ; D000743 ; -1 ; -1 ; 1.0000011
+cephalosporins ; D002511 ; neurotoxicity ; D020258 ; -1 ; -1 ; 1.0000012
+cephalosporins ; D002511 ; cauda equina syndrome ; D011128 ; -1 ; -1 ; 1.0000012
+lignocaine ; D008012 ; neurological deficits ; D009461 ; -1 ; -1 ; 1.0000012
+lignocaine ; D008012 ; hemolytic anemia ; D000743 ; -1 ; -1 ; 1.0000012
+lignocaine ; D008012 ; neurotoxicity ; D020258 ; -1 ; -1 ; 1.0000012
+cefotetan ; D015313 ; neurological deficits ; D009461 ; -1 ; -1 ; 1.0000012
+cefotetan ; D015313 ; neurotoxicity ; D020258 ; -1 ; -1 ; 1.0000012
+cefotetan ; D015313 ; cauda equina syndrome ; D011128 ; -1 ; -1 ; 1.0000012
+cefotetan ; D015313 ; hemolytic anemia ; D000743 ; +1 ; -1 ; 1.0000012
+lignocaine ; D008012 ; cauda equina syndrome ; D011128 ; +1 ; -1 ; 1.0000012
