@@ -6,6 +6,8 @@ The method works by computing a word embedding of the training corpus, concatena
 
 As training and test corpus we use the known CDR corpus (BioCreative). The baseline has an accuracy of 80%. The whole experiment is self-contained. Download and type on the command line (in the package directory):
 
+```
    python main.py
+```
 
 to run the experiment.
